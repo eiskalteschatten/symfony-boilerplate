@@ -7,6 +7,12 @@ This project was created from `symfony/skeleton` version 8.1.* with the followin
 - twig
 - symfony/mailer
 
+## Start Symfony for Local Development
+
+```
+symfony server:start
+```
+
 ## Initial Setup of User Authentication
 
 The following commands were run to preconfigure the authenication system:
