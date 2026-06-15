@@ -6,6 +6,7 @@ This project was created from `symfony/skeleton` version 8.1.* with the followin
 - symfony/security-bundle
 - twig
 - symfony/mailer
+- symfony/cache
 
 ## Start Symfony for Local Development
 
