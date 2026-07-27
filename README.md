@@ -1,12 +1,6 @@
 # symfony-boilerplate
 
-This project was created from `symfony/skeleton` version 8.1.* with the following Symfony packages added:
-
-- symfony/orm-pack
-- symfony/security-bundle
-- twig
-- symfony/mailer
-- symfony/cache
+This project was created from `symfony/skeleton` version 8.1.*.
 
 ## Start Symfony for Local Development
 
