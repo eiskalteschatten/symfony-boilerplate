@@ -9,7 +9,7 @@
         "ext-iconv": "*",
         "doctrine/doctrine-bundle": "^3.3.2",
         "doctrine/doctrine-migrations-bundle": "^4.0.1",
-        "doctrine/orm": "^3.7.1",
+        "doctrine/orm": "^3.7.2",
         "symfony/asset-mapper": "8.1.*",
         "symfony/cache": "^8.1.7",
         "symfony/console": "8.1.*",
@@ -22,7 +22,7 @@
         "symfony/twig-bundle": "8.1.*",
         "symfony/yaml": "8.1.*",
         "twig/extra-bundle": "^2.12|^3.29",
-        "twig/twig": "^2.12|^3.29"
+        "twig/twig": "^2.12|^3.30"
     },
     "config": {
         "allow-plugins": {
