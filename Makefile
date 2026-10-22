@@ -3,6 +3,6 @@ start:
 	symfony server:start -d && \
 	symfony server:log
 
-shutdown:
+stop:
 	symfony server:stop && \
 	docker compose down
